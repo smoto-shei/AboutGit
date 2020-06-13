@@ -1,0 +1,33 @@
+### https://raw.github.com/github/gitignore/0e8e8b1b7e3791dfc1c99bb2a1fd28400e192072/Global/macOS.gitignore
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# 参考してるpdf
+githubActions/GitHub-A*
+
