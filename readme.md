@@ -13,7 +13,7 @@
     1. git remote add origin url （登録）
     2. git remote set-url origin {new url} (変更)
 
-# git
+# git コマンド
 ## git status
 直前の commit (HEAD) の状態との差分を表す
 - Changes to be commited
@@ -29,6 +29,10 @@
 - M_ : add されてるけど commit されてない
 - _M : 編集・変更・削除されているけどまだ add されていない
 - ?? : git 管理されていない（新規作成されローカルリポジトリにない）かつ .gitignore でも除外されていない
+
+
+## git diff
+ワークツリーで行った変更をみる
 
 
 
