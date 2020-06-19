@@ -235,3 +235,7 @@ git reset <何を戻す?> <どこまで戻す?>
 <!-- git diff -->
 
 [忘れやすい人のための git diff チートシート](https://qiita.com/shibukk/items/8c9362a5bd399b9c56be)
+
+<!-- gitignore -->
+
+[.gitignore の仕様詳解](https://qiita.com/anqooqie/items/110957797b3d5280c44f)
